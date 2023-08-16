@@ -15,12 +15,12 @@ public class Lab {
      *     sum = sum + i;
      *     i = i + 1;
      *
-     * Meaning, so long as as a number i, which we've defined, is less that some number end,
+     * Meaning, so long as a number i, which we've defined, is less that some number end,
      * let's add the number i to sum and increase it by 1.
      * So: counting from 0 to end = 6 (excluding 6), we add the numbers to a total count
      *     (ie as i goes from 0 -> 1 -> 2 -> 3 -> 4 -> 5 sum goes from 0 -> 1 -> 3 -> 6 -> 10 -> 15)
      *
-     * Another guide on while loops: https://www.w3schools.com/java/java_while_loop.asp
+     * Additional information is easily found by searching online for keywords like: java while loop
      *
      * I also recommend adding a line such as System.out.println(sum); and System.out.println(i);, or using your IDE's
      * debugger tool, to help you understand what is really happening when the loop is running.
